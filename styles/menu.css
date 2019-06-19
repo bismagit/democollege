@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	font-family:Arial;
+}
+#container{
+	background-color:lightgray;
+	min-height:600px;
+}
+#menu-division{
+	background-color:darkgreen;
+}
+#menu-division > ul{
+	list-style-type:none;
+	padding:0px;
+	text-align:center;
+}
+
+#menu-division > ul > li{
+	margin-bottom:2px;
+	display:inline-block;
+	padding:10px;
+}
+
+#menu-division > ul > li > a{
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:18px;
+}
+
+
+
+
+
+
+
